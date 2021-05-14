@@ -11,6 +11,4 @@ def nanotech(n):
         print(n)
         nanotech(n+n)
 
-for i in nanotech(4):
-    counter = 0
-    counter +=1
+
